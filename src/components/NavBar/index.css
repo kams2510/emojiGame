@@ -1,0 +1,32 @@
+/* Write your code here. */
+.bg {
+  background-color: #ffffff33;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-card {
+  display: flex;
+}
+
+.logo-card > img {
+  height: 40px;
+  width: 40px;
+  padding: 3px;
+  margin-top: 6px;
+  margin-left: 4px;
+}
+
+.logo-card > h1 {
+  font-size: 20px;
+  margin-left: 6px;
+}
+
+.score-card {
+  display: flex;
+  margin-right: 10px;
+}
+
+.score-card > p {
+  margin-left: 10px;
+}

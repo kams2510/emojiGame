@@ -1,0 +1,16 @@
+/* Write your code here. */
+button {
+  background-color: #ffce27;
+  color: #3d3d3d;
+  border-radius: 10px;
+  padding: 4px;
+}
+
+.result-container {
+  display: flex;
+}
+
+.img {
+  height: 200px;
+  width: 200px;
+}

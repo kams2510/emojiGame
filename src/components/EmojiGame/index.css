@@ -1,0 +1,23 @@
+/* Write your code here. */
+.container {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  height: 100vh;
+  background-size: cover;
+}
+
+.emoji-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  flex-wrap: wrap;
+  gap: 10px;
+}

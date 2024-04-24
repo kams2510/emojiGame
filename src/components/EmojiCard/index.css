@@ -1,0 +1,17 @@
+li {
+  height: 120px;
+  width: 120px;
+  border-radius: 10px;
+  background-color: #ffffff33;
+}
+
+button {
+  border: 0px;
+  border-radius: 50%;
+  padding: 5px;
+  background-color: transparent;
+}
+
+img {
+  border-radius: 50%;
+}
